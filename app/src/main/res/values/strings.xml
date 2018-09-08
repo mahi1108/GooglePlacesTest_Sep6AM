@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GooglePlacesTest</string>
+
+    <string-array name="places">
+        <item>atm</item>
+        <item>restaurant</item>
+        <item>bank</item>
+        <item>jewelry_store</item>
+        <item>hindu_temple</item>
+        <item>pharmacy</item>
+        <item>beauty_salon</item>
+        <item>police</item>
+    </string-array>
+</resources>
